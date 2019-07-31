@@ -52,7 +52,5 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
         print(image.size)
     }
     
-    
-    
 }
 
